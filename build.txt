@@ -1,0 +1,3 @@
+displayName = my very awesome mod
+author = Moosyu
+version = 0.1
